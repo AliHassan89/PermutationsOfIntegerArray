@@ -14,6 +14,8 @@
  [3,2,1]
  ]
 
+Time complexity is
+O(n*n!)
  */
 
 package main.java;
